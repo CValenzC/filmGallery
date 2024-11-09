@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 339 241.07">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 170px;
+      }
+
+      .cls-2 {
+        font-size: 200px;
+      }
+
+      .cls-3 {
+        font-family: AcuminConcept-Bold, 'Acumin Variable Concept';
+        font-variation-settings: 'wght' 700, 'wdth' 100, 'slnt' 0;
+        font-weight: 700;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #1d1d1b;
+      }
+    </style>
+  </defs>
+  <g id="Capa_1" data-name="Capa 1">
+    <g>
+      <path class="cls-4" d="m163.54,0H18.46C8.27,0,0,8.27,0,18.46v145.07c0,10.2,8.27,18.46,18.46,18.46h145.07c10.2,0,18.46-8.27,18.46-18.46V18.46c0-10.2-8.27-18.46-18.46-18.46Zm6.92,156.61c0,7.65-6.2,13.85-13.85,13.85H25.39c-7.65,0-13.85-6.2-13.85-13.85V25.39c0-7.65,6.2-13.85,13.85-13.85h131.22c7.65,0,13.85,6.2,13.85,13.85v131.22Z"/>
+      <rect class="cls-4" x="38.91" y="4.62" width="7.91" height="169.47"/>
+      <rect class="cls-4" x="19.29" y="19.62" width="7.91" height="39.24" transform="translate(-15.99 62.48) rotate(-90)"/>
+      <rect class="cls-4" x="19.29" y="48.63" width="7.91" height="39.24" transform="translate(-45.01 91.49) rotate(-90)"/>
+      <rect class="cls-4" x="23.24" y="75.34" width="7.91" height="39.24" transform="translate(-67.76 122.16) rotate(-90)"/>
+      <rect class="cls-4" x="22.59" y="102.05" width="7.91" height="39.24" transform="translate(-95.12 148.2) rotate(-90)"/>
+      <rect class="cls-4" x="22.59" y="128.75" width="7.91" height="39.24" transform="translate(-121.83 174.91) rotate(-90)"/>
+      <rect class="cls-4" x="133.04" y="4.62" width="7.91" height="169.47" transform="translate(273.99 178.7) rotate(-180)"/>
+      <rect class="cls-4" x="152.66" y="19.62" width="7.91" height="39.24" transform="translate(117.38 195.85) rotate(-90)"/>
+      <rect class="cls-4" x="152.66" y="48.63" width="7.91" height="39.24" transform="translate(88.36 224.86) rotate(-90)"/>
+      <rect class="cls-4" x="148.7" y="75.34" width="7.91" height="39.24" transform="translate(57.7 247.61) rotate(-90)"/>
+      <rect class="cls-4" x="149.36" y="102.05" width="7.91" height="39.24" transform="translate(31.65 274.98) rotate(-90)"/>
+      <rect class="cls-4" x="149.36" y="128.75" width="7.91" height="39.24" transform="translate(4.95 301.68) rotate(-90)"/>
+      <rect class="cls-4" x="133.2" y="6.26" width="7.91" height="169.47"/>
+      <rect class="cls-4" x="46.16" y="11.54" width="90.84" height="162.55"/>
+    </g>
+  </g>
+  <g id="Capa_3" data-name="Capa 3">
+    <text class="cls-3" transform="translate(72.72 180.61)"><tspan class="cls-1" x="0" y="0">f</tspan><tspan class="cls-2" x="55.93" y="0">G</tspan></text>
+  </g>
+</svg>
